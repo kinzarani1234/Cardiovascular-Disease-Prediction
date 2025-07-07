@@ -61,5 +61,6 @@ This project applies various machine learning algorithms to predict cardiovascul
 
 ## 👩‍💻 Author
 **Kinza Rani**
+
 Data Scientist & AI Enthusiast
 
